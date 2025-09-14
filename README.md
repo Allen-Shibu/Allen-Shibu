@@ -2,7 +2,7 @@
 
 🎓 First-year B.Tech CSE student at GEC Thrissur  
 💻 Exploring **Web Development, Python, and CS Fundamentals**  
-🚀 Interested in **Interested in AI Red-Teaming**  
+🚀 Interested in **AI Red-Teaming**  
 
 ---
 
