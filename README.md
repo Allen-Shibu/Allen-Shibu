@@ -8,7 +8,7 @@
 
 ## 🔧 Skills & Tools
 - **Languages:** C, Python, JavaScript  
-- **Frontend:** HTML, CSS, Bootstrap  
+- **Frontend:** HTML, CSS  
 - **Backend (Learning):** Node.js  
 - **Tools:** Git, GitHub, VS Code, Linux  
 
