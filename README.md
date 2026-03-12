@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Allen Shibu<br>🎓 First-year B.Tech CSE student at GEC Thrissur<br>💻 Exploring Web Development, Python, and CS Fundamentals<br>🚀 Interested in AI Red-Teaming<br><br>
+# About Me:
+👋 Hi, I'm Allen Shibu<br>🎓 First-year B.Tech CSE student at GEC Thrissur<br>💻 Exploring Web Development, Python, and CS Fundamentals<br>
 
 
 ## 🌐 Socials:
@@ -12,7 +12,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Allen-Shibu&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-Shibu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
