@@ -7,6 +7,9 @@
 **[OpenOrbit](https://openorbit.app)** — college event platform for club organizers
 `React` `TypeScript` `Go · Gin` `PostgreSQL` `Vercel` `Render` `Neon`
 
+**[CLARA](https://cla-ra.vercel.app)** — AI-powered company research & legitimacy checker
+`React` `TypeScript` `Go · Gin` `OpenRouter` `Serper`
+
 **[Univo](https://univo.photoshareai.com)** — p2p college marketplace restricted to `@gectcr.ac.in` emails
 `Vite` `Vanilla JS` `Supabase` `Tailwind CSS`
 
